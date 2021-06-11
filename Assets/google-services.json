@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439231277863",
+    "project_id": "teachar-f92d7",
+    "storage_bucket": "teachar-f92d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439231277863:android:2c15e489625af34c9c1702",
+        "android_client_info": {
+          "package_name": "com.education.teachar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439231277863-92gqc5sthv0epe1tlem33425rnj6qtue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZMgov4mZ7FKlWIouCyb9xvn4JQ9_No4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439231277863-92gqc5sthv0epe1tlem33425rnj6qtue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
